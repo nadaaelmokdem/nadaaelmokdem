@@ -1,4 +1,6 @@
-<h1>👋 Hi, I'm Nada Elmokdem</h1>
+<h1>👩‍💻 Nada Elmokdem – I Build Software That Actually Works</h1>
+<p style="color:#4479A1;">Full-Stack .NET & Machine Learning | Clean Logic | Scalable Systems</p>
+
 
 <h2>❓Who's Nada?</h2>
 <p>

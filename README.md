@@ -61,36 +61,11 @@ I work mainly with .NET and backend technologies, expanding into machine learnin
 </p>
 
 
-<h3 class="header-experience">🏆 Experience</h3>
-<ul>
-  <li><b>.NET Developer Intern</b> – Digital Egypt Pioneers Initiative (DEPI)</li>
-  <li><b>.NET Web Developer Trainee</b> – Masar Tech</li>
-  <li><b>Machine Learning Intern</b> – Genius Technology Center (GTC)</li>
-  <li><b>Frontend Web Developer Intern</b> – Elevvo Pathways</li>
-  <li><b>CEO & Founder</b> – Glow Store (E-commerce business since 2020)</li>
-</ul>
-
-<h3 class="header-leadership">🌟 Leadership & Community</h3>
-<ul>
-  <li>Marketing Director – GDG on Campus ECU</li>
-  <li>Leader of Marketing – IEEE ECU SB</li>
-  <li>Head of Marketing – ECU Racing Team</li>
-  <li>Microsoft Student Chapter – Marketing Director</li>
-</ul>
-
 <h3 class="header-education">🎓 Education</h3>
 <p>
 Bachelor of Engineering – Computer Software Engineering<br/>
 Egyptian Chinese University (2023 – 2027)
 </p>
-
-<h3 class="header-certifications">📜 Certifications</h3>
-<ul>
-  <li>Introducing Generative AI with AWS</li>
-  <li>AWS Educate – Machine Learning Foundations</li>
-  <li>Introduction to GitHub</li>
-  <li>Data Cleaning</li>
-</ul>
 
 <h3 class="header-languages">🗣 Languages</h3>
 <ul>

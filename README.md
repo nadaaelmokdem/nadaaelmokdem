@@ -27,18 +27,22 @@ Based in <b>Cairo, Egypt</b>
 
 
 
+<!-- Add Font Awesome CDN -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
 <h3 class="header-contact">🔗 Where to find me</h3>
-<p class="badges">
-  <a href="https://github.com/nadaaelmokdem" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<p class="badges" style="font-size:2em; display:flex; gap:15px;">
+  <a href="https://github.com/nadaaelmokdem" target="_blank" style="color:#181717;">
+    <i class="fab fa-github"></i>
   </a>
-  <a href="https://www.linkedin.com/in/nadaaelmokdem" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/nadaaelmokdem" target="_blank" style="color:#0077B5;">
+    <i class="fab fa-linkedin"></i>
   </a>
-  <a href="mailto:nadaaelmokdem@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:nadaaelmokdem@gmail.com" style="color:#D14836;">
+    <i class="fas fa-envelope"></i>
   </a>
 </p>
+
 
 <h3>🛠 What I Provide as a Developer</h3>
 <table>

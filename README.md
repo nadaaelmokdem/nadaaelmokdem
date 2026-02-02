@@ -25,17 +25,16 @@ Based in <b>Cairo, Egypt</b>
   <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-512BD4?style=flat-square&logo=sql-server&logoColor=white" />
 </p>
 
-
-
-<p style="display:flex; gap:10px;">
+<h3 class="header-contact">🔗 Where to find me</h3>
+<p style="display:flex; gap:15px; align-items:center;">
   <a href="https://github.com/nadaaelmokdem" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="30" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/nadaaelmokdem" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:nadaaelmokdem@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="30" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 

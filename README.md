@@ -43,17 +43,29 @@ I care about clean logic, scalable systems, and deep learning rather than chasin
 </p>
 
 <h3>🛠 What I Provide as a Developer</h3>
-<div style="display:flex; flex-wrap:wrap; gap:10px;">
-  <div style="padding:10px; border:1px solid #512BD4; border-radius:8px; flex:1; min-width:150px; text-align:center;">
-    Backend Development
-  </div>
-  <div style="padding:10px; border:1px solid #239120; border-radius:8px; flex:1; min-width:150px; text-align:center;">
-    Frontend Development
-  </div>
-  <div style="padding:10px; border:1px solid #4479A1; border-radius:8px; flex:1; min-width:150px; text-align:center;">
-    Database Design
-  </div>
-</div>
+<table>
+  <tr>
+    <th>Service</th>
+    <th>Tools/Tech</th>
+    <th>Level</th>
+  </tr>
+  <tr>
+    <td>Backend Development</td>
+    <td>.NET, C#, SQL</td>
+    <td>Advanced</td>
+  </tr>
+  <tr>
+    <td>Frontend Development</td>
+    <td>ASP.NET MVC, HTML/CSS, JS</td>
+    <td>Intermediate</td>
+  </tr>
+  <tr>
+    <td>Machine Learning</td>
+    <td>Python, TensorFlow</td>
+    <td>Beginner/Intermediate</td>
+  </tr>
+</table>
+
 
 
 

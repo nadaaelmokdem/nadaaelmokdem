@@ -50,7 +50,7 @@ Based in <b>Cairo, Egypt</b>
   <tr>
     <td>Machine Learning</td>
     <td>Python, TensorFlow</td>
-    <td>Beginner/Intermediate</td>
+    <td>Intermediate</td>
   </tr>
 </table>
 

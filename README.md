@@ -29,6 +29,20 @@ I care about clean logic, scalable systems, and deep learning rather than chasin
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
+<h3 class="header-contact">🔗 Where to find me</h3>
+<p class="badges">
+  <a href="https://github.com/nadaaelmokdem" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nadaaelmokdem" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nadaaelmokdem@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
 <h3 class="header-experience">🏆 Experience</h3>
 <ul>
   <li><b>.NET Developer Intern</b> – Digital Egypt Pioneers Initiative (DEPI)</li>
@@ -66,15 +80,3 @@ Egyptian Chinese University (2023 – 2027)
   <li>English – Full Professional</li>
   <li>French – Elementary</li>
 </ul>
-
-<h3 class="header-contact">🔗 Where to find me</h3>
-<p>
-<a href="https://github.com/">GitHub</a> ·
-<a href="https://www.linkedin.com/in/nadaaelmokdem">LinkedIn</a> ·
-<a href="mailto:nadaaelmokdem@gmail.com">Email</a>
-</p>
-
-<p><i>Building steadily. Learning aggressively.</i></p>
-
-</body>
-</html>

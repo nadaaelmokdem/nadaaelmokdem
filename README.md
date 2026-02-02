@@ -1,14 +1,15 @@
-<h1 align="center">
-  THIS IS <span >Nada Elmokdem</span>
+<h1 align="center">Nada Elmokdem
+<h3 align="center">💻Software Engineering Student | 🌐Full-Stack .NET Web Development | 🤖Machine Learning
+</h3>
+                                              <h3 align="center">    📍 Based in Egypt 🇪🇬</h3>
 </h1>
+<h3 align="center>
+  <font size="5"></font>
+</h3>
 
-<p>
-Nada is a Software Engineering Student and a Business Owner specialized in Full-Stack .NET Web Development and Machine Learning.<br/>
-  
-Based in <b>Cairo, Egypt</b>
-</p>
 
-<h3>💻 Things I work with</h3>
+
+<h3>⌨️ Things I work with</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,css,cs,bootstrap,discord,dotnet,git,github,html,js,matlab,mysql,notion,py,sklearn,tensorflow,visualstudio,vscode,windows," />

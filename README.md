@@ -1,8 +1,4 @@
-<h1>👩‍💻 Nada Elmokdem – I Build Software That Actually Works</h1>
-<p style="color:#4479A1;">Full-Stack .NET & Machine Learning | Clean Logic | Scalable Systems</p>
-
-
-<h2>❓Who's Nada?</h2>
+<h1>Nada Elmokdem</h1>
 <p>
 Nada is a Software Engineering Student and a Business Owner specialized in Full-Stack .NET Web Development and Machine Learning.<br/>
 Based in <b>Cairo, Egypt</b>

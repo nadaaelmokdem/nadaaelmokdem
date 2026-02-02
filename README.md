@@ -60,16 +60,9 @@ I’m a software engineering student with a backend-first mindset, turning ideas
 I work mainly with .NET and backend technologies, expanding into machine learning and AI. I value clean logic, scalable systems, and deep learning over chasing trends, building solutions that make sense in the real world.
 </p>
 
-
 <h3 class="header-education">🎓 Education</h3>
 <p>
 Bachelor of Engineering – Computer Software Engineering<br/>
 Egyptian Chinese University (2023 – 2027)
 </p>
 
-<h3 class="header-languages">🗣 Languages</h3>
-<ul>
-  <li>Arabic – Native</li>
-  <li>English – Full Professional</li>
-  <li>French – Elementary</li>
-</ul>

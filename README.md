@@ -42,6 +42,20 @@ I care about clean logic, scalable systems, and deep learning rather than chasin
   </a>
 </p>
 
+<h3>🛠 What I Provide as a Developer</h3>
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <div style="padding:10px; border:1px solid #512BD4; border-radius:8px; flex:1; min-width:150px; text-align:center;">
+    Backend Development
+  </div>
+  <div style="padding:10px; border:1px solid #239120; border-radius:8px; flex:1; min-width:150px; text-align:center;">
+    Frontend Development
+  </div>
+  <div style="padding:10px; border:1px solid #4479A1; border-radius:8px; flex:1; min-width:150px; text-align:center;">
+    Database Design
+  </div>
+</div>
+
+
 
 <h3 class="header-experience">🏆 Experience</h3>
 <ul>

@@ -15,7 +15,11 @@ Based in <b>Cairo, Egypt</b>
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=orange" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="C# Windows Forms" src="https://img.shields.io/badge/-C%23%20Windows%20Forms-239120?style=flat-square&logo=windows&logoColor=white" />
+  <img alt="Python Notebooks" src="https://img.shields.io/badge/-Python%20Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 </p>
+
 
 <h3 class="header-contact">🔗 Where to find me</h3>
 <p class="badges">

@@ -1,12 +1,14 @@
-<h1>Hi, I'm Nada 👋</h1>
+<h1>Hi, I'm Nada Elmokdem👋</h1>
 
 <p>
-.Net Web Developer | Machine Learning Engineer | Software Engineering Student | Business Owner<br/>
+I'm a Software Engineering Student and a Business Owner specializing in Full-Stack .NET Web Developer, and Machine Learning <br/>
 Based in <b>Cairo, Egypt</b>
 </p>
 
 <p>
-I'm a results-driven software engineering student with a strong backend focus and real-world experience across tech, business, and leadership. I started working early, built and scaled my own online business, and kept stacking technical skills through internships, communities, and hands-on projects. I like building things that actually work and make sense, not just things that look nice on slides.
+I’m a software engineering student with a backend-first mindset and a habit of turning ideas into things that actually work. I’ve moved between business, tech, and leadership roles early on, which taught me how to think beyond code and focus on impact, users, and results.
+I work mainly with .NET and backend technologies, and I’m steadily expanding into machine learning and AI. Along the way, I’ve built real experience through internships, tech communities, and running my own online business, where decisions weren’t theoretical, and mistakes were expensive.
+I care about clean logic, scalable systems, and learning things deeply instead of chasing trends. I’m curious by default, practical by nature, and motivated by building solutions that make sense in the real world, not just on paper.
 </p>
 
 <h3>Things I work with</h3>

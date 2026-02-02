@@ -27,19 +27,15 @@ Based in <b>Cairo, Egypt</b>
 
 
 
-<!-- Add Font Awesome CDN -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
-<h3 class="header-contact">🔗 Where to find me</h3>
-<p class="badges" style="font-size:2em; display:flex; gap:15px;">
-  <a href="https://github.com/nadaaelmokdem" target="_blank" style="color:#181717;">
-    <i class="fab fa-github"></i>
+<p style="display:flex; gap:10px;">
+  <a href="https://github.com/nadaaelmokdem" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="30" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/nadaaelmokdem" target="_blank" style="color:#0077B5;">
-    <i class="fab fa-linkedin"></i>
+  <a href="https://www.linkedin.com/in/nadaaelmokdem" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" alt="LinkedIn"/>
   </a>
-  <a href="mailto:nadaaelmokdem@gmail.com" style="color:#D14836;">
-    <i class="fas fa-envelope"></i>
+  <a href="mailto:nadaaelmokdem@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="30" alt="Email"/>
   </a>
 </p>
 

@@ -5,20 +5,44 @@ Based in <b>Cairo, Egypt</b>
 </p>
 
 <h3>💻 Things I work with</h3>
+
+<!-- Languages -->
 <p class="badges">
-  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt="ASP.NET MVC" src="https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt="Entity Framework" src="https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=orange" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="C# Windows Forms" src="https://img.shields.io/badge/-C%23%20Windows%20Forms-239120?style=flat-square&logo=windows&logoColor=white" />
-  <img alt="Python Notebooks" src="https://img.shields.io/badge/-Python%20Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
+
+<!-- Frameworks & Technologies -->
+<p class="badges">
+  <img alt="ASP.NET MVC" src="https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="Entity Framework" src="https://img.shields.io/badge/-Entity%20Framework-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="LINQ" src="https://img.shields.io/badge/-LINQ-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+</p>
+
+<!-- Tools & Libraries -->
+<p class="badges">
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="SSMS" src="https://img.shields.io/badge/-SSMS-512BD4?style=flat-square&logo=sqlserver&logoColor=white" />
+  <img alt="MySQL Workbench" src="https://img.shields.io/badge/-MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
+
+<!-- Databases -->
+<p class="badges">
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-512BD4?style=flat-square&logo=sql-server&logoColor=white" />
+</p>
+
+<!-- Core Concepts -->
+<p class="badges">
+  <img alt="OOP" src="https://img.shields.io/badge/-OOP-FF6F61?style=flat-square" />
+  <img alt="Data Structures" src="https://img.shields.io/badge/-Data%20Structures-FF6F61?style=flat-square" />
+  <img alt="Algorithms" src="https://img.shields.io/badge/-Algorithms-FF6F61?style=flat-square" />
+</p>
+
 
 
 <h3 class="header-contact">🔗 Where to find me</h3>

@@ -1,7 +1,101 @@
-<h1>Hi, I'm Nada Elmokdem👋</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nada Elmokdem Portfolio</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  body {
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    max-width: 900px;
+    margin: auto;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  h1, h2, h3 {
+    margin-top: 2em;
+    margin-bottom: 0.5em;
+  }
+  h1 {
+    color: #512BD4;
+    text-align: center;
+    font-size: 2.5em;
+  }
+  h2 {
+    color: #239120;
+    border-bottom: 3px solid #239120;
+    display: inline-block;
+    font-size: 1.8em;
+  }
+  h3 {
+    font-size: 1.4em;
+    margin-top: 1.5em;
+  }
+  .header-experience {
+    color: #4479A1;
+    border-left: 5px solid #4479A1;
+    padding-left: 10px;
+  }
+  .header-leadership {
+    color: #512BD4;
+    border-left: 5px solid #512BD4;
+    padding-left: 10px;
+  }
+  .header-education {
+    color: #F0A500;
+    border-bottom: 2px dashed #F0A500;
+    display: inline-block;
+  }
+  .header-certifications {
+    color: #102230;
+    border-bottom: 2px solid #102230;
+    display: inline-block;
+  }
+  .header-languages {
+    color: #FF5733;
+    border-left: 5px solid #FF5733;
+    padding-left: 10px;
+  }
+  .header-contact {
+    color: #239120;
+    border-bottom: 2px dotted #239120;
+    display: inline-block;
+  }
+  ul {
+    margin-left: 20px;
+  }
+  p {
+    margin-bottom: 1em;
+  }
+  .badges img {
+    margin: 4px 4px 4px 0;
+  }
+  a {
+    text-decoration: none;
+    color: #512BD4;
+    font-weight: 600;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  i {
+    display: block;
+    margin-top: 2em;
+    text-align: center;
+    color: #666;
+  }
+</style>
+</head>
+<body>
 
+<h1>👋 Hi, I'm Nada Elmokdem</h1>
+
+<h2>About Me</h2>
 <p>
-I'm a Software Engineering Student and a Business Owner specializing in Full-Stack .NET Web Developer, and Machine Learning <br/>
+I'm a Software Engineering Student and a Business Owner specializing in Full-Stack .NET Web Development and Machine Learning.<br/>
 Based in <b>Cairo, Egypt</b>
 </p>
 
@@ -11,8 +105,8 @@ I work mainly with .NET and backend technologies, and I’m steadily expanding i
 I care about clean logic, scalable systems, and learning things deeply instead of chasing trends. I’m curious by default, practical by nature, and motivated by building solutions that make sense in the real world, not just on paper.
 </p>
 
-<h3>Things I work with</h3>
-<p>
+<h3>💻 Things I work with</h3>
+<p class="badges">
   <img alt="C#" src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt="ASP.NET MVC" src="https://img.shields.io/badge/-ASP.NET%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
@@ -24,7 +118,7 @@ I care about clean logic, scalable systems, and learning things deeply instead o
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
 
-<h3>Experience</h3>
+<h3 class="header-experience">🏆 Experience</h3>
 <ul>
   <li><b>.NET Developer Intern</b> – Digital Egypt Pioneers Initiative (DEPI)</li>
   <li><b>.NET Web Developer Trainee</b> – Masar Tech</li>
@@ -33,7 +127,7 @@ I care about clean logic, scalable systems, and learning things deeply instead o
   <li><b>CEO & Founder</b> – Glow Store (E-commerce business since 2020)</li>
 </ul>
 
-<h3>Leadership & Community</h3>
+<h3 class="header-leadership">🌟 Leadership & Community</h3>
 <ul>
   <li>Marketing Director – GDG on Campus ECU</li>
   <li>Leader of Marketing – IEEE ECU SB</li>
@@ -41,13 +135,13 @@ I care about clean logic, scalable systems, and learning things deeply instead o
   <li>Microsoft Student Chapter – Marketing Director</li>
 </ul>
 
-<h3>Education</h3>
+<h3 class="header-education">🎓 Education</h3>
 <p>
 Bachelor of Engineering – Computer Software Engineering<br/>
 Egyptian Chinese University (2023 – 2027)
 </p>
 
-<h3>Certifications</h3>
+<h3 class="header-certifications">📜 Certifications</h3>
 <ul>
   <li>Introducing Generative AI with AWS</li>
   <li>AWS Educate – Machine Learning Foundations</li>
@@ -55,18 +149,21 @@ Egyptian Chinese University (2023 – 2027)
   <li>Data Cleaning</li>
 </ul>
 
-<h3>Languages</h3>
+<h3 class="header-languages">🗣 Languages</h3>
 <ul>
   <li>Arabic – Native</li>
   <li>English – Full Professional</li>
   <li>French – Elementary</li>
 </ul>
 
-<h3>Where to find me</h3>
+<h3 class="header-contact">🔗 Where to find me</h3>
 <p>
 <a href="https://github.com/">GitHub</a> ·
 <a href="https://www.linkedin.com/in/nadaaelmokdem">LinkedIn</a> ·
 <a href="mailto:nadaaelmokdem@gmail.com">Email</a>
 </p>
 
-<p align="center"><i>Building steadily. Learning aggressively.</i></p>
+<p><i>Building steadily. Learning aggressively.</i></p>
+
+</body>
+</html>

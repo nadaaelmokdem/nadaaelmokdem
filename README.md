@@ -1,13 +1,7 @@
 <h1 align="center">Nada Elmokdem
 <h3 align="center">💻Software Engineering Student | 🌐Full-Stack .NET Web Development | 🤖Machine Learning
 </h3>
-                                              <h3 align="center">    📍 Based in Egypt 🇪🇬</h3>
 </h1>
-<h3 align="center>
-  <font size="5"></font>
-</h3>
-
-
 
 <h3>⌨️ Things I work with</h3>
 <p align="center">

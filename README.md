@@ -5,6 +5,8 @@ Based in <b>Cairo, Egypt</b>
 </p>
 
 <h3>💻 Things I work with</h3>
+![Skills](https://skillicons.dev/icons?i=python,c,cpp,csharp,html,css,aspnet,efcore,github,vscode,mysql,mssql,jupyter&perline=4)
+
 
 <!-- Languages -->
 <p class="badges">

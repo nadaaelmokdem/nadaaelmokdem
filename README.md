@@ -6,7 +6,7 @@
 <h3>⌨️ Things I work with</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,css,cs,bootstrap,discord,dotnet,git,github,html,js,matlab,mysql,notion,py,sklearn,tensorflow,visualstudio,vscode,windows," />
+    <img src="https://skillicons.dev/icons?i=cpp,css,cs,bootstrap,discord,dotnet,git,github,html,js,matlab,mysql,notion,py,sklearn,tensorflow,visualstudio,vscode,windows,figma" />
   </a>
 </p>
 <p class="badges">

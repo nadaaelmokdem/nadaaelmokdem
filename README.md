@@ -259,7 +259,7 @@ Applied ML work developed through internships at FlyRank AI and Genius Technolog
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nadaaelmokdem&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=nadaaelmokdem&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 

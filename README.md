@@ -8,8 +8,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bachelor's%20Degree-Computer%20Software%20Engineering-6D28D9?style=flat-square&labelColor=0f0524"/>
-  <img src="https://img.shields.io/badge/Egyptian%20Chinese%20University-2023%20--%202027-4C1D95?style=flat-square&labelColor=0f0524"/>
-  <img src="https://img.shields.io/badge/📍-Cairo%2C%20Egypt-6D28D9?style=flat-square&labelColor=0f0524"/>
 </p>
 
 <p align="center">
@@ -19,11 +17,6 @@
   <a href="https://github.com/nadaaelmokdem" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadaaelmokdem&style=flat-square&color=6d28d9&label=Profile+Views"/>
-  <img src="https://img.shields.io/github/followers/nadaaelmokdem?style=flat-square&color=6d28d9&labelColor=0f0524"/>
-  <img src="https://img.shields.io/github/stars/nadaaelmokdem?style=flat-square&color=6d28d9&labelColor=0f0524"/>
-</p>
 
 <hr/>
 
@@ -67,89 +60,10 @@ Alongside my technical work, I founded and ran Glow Store, an e-commerce busines
   <img src="https://img.shields.io/badge/-Data%20Cleaning-4C1D95?style=flat-square" />
   <img src="https://img.shields.io/badge/-Applied%20AI-6D28D9?style=flat-square" />
 </p>
-<p align="center">
-Hands-on ML experience from internships at FlyRank AI and Genius Technology Center, plus coursework in Generative AI with AWS and Data Cleaning.
-</p>
 
 <hr/>
 
-<h3>💼 Experience</h3>
 
-**Machine Learning Intern** · FlyRank AI &nbsp;—&nbsp; `June 2026 - Present`
-Applied machine learning internship focused on model development.
-
-**Software Engineer** · Shouman Hamdy &nbsp;—&nbsp; `May 2026 - Present`
-
-**.NET Developer Intern** · Digital Egypt Pioneers Initiative (DEPI) &nbsp;—&nbsp; `November 2025 - Present`
-
-**.NET Web Development Intern** · ABG Egypt &nbsp;—&nbsp; `February 2026`
-
-**CEO & Founder** · Glow Store &nbsp;—&nbsp; `July 2020 - February 2026`
-Founded and scaled an e-commerce business during the COVID-19 pandemic, selling clothing, makeup, and lifestyle products online.
-
-**.NET Web Developer Trainee** · Masar Tech &nbsp;—&nbsp; `July 2025 - January 2026`
-
-**Machine Learning Intern** · Genius Technology Center (GTC) &nbsp;—&nbsp; `August 2025 - September 2025`
-
-**Internship Trainee** · CIB Egypt &nbsp;—&nbsp; `August 2025`
-
-<details>
-<summary><b>🟣 Leadership & Community Roles</b></summary>
-<br/>
-
-**Leader of Marketing** · IEEE ECU SB — `Feb 2025 - Sep 2025`
-
-**Marketing Director** · GDG on Campus, Egyptian Chinese University — `Nov 2024 - Sep 2025`
-
-**Developers Relations** · STEM Entrepreneurship Center — `Apr 2025 - Aug 2025`
-
-**Events & PR Team** · STEM Entrepreneurship Center — `Oct 2024 - Jul 2025`
-
-**Frontend Web Developer Intern** · Elevvo Pathways — `Jul 2025`
-
-**Head of Marketing** · ECU Racing Team — `Aug 2024 - Dec 2024`
-
-**Cybersecurity Intern** · CodeAlpha — `Jun 2024 - Sep 2024`
-
-**Cybersecurity Intern** · Prodigy InfoTech — `Jun 2024 - Jul 2024`
-
-**AI Career Essentials** · ALX Arabia — `Jun 2024 - Jul 2024`
-
-**Marketing Director** · Microsoft Student Chapter, ECU — `Mar 2024 - Jun 2024`
-
-**Assistant English Teacher** · Agyal Academy — `Mar 2019 - Oct 2019`
-
-</details>
-
-<hr/>
-
-<h3>🚀 Featured Projects</h3>
-
-**🛍️ Glow Store — E-Commerce Platform**
-Built and scaled an online store from scratch during the COVID-19 pandemic — 5+ years in operation, sourcing products internationally with a fully digital shopping experience.
-<p>
-<img src="https://img.shields.io/badge/-Digital%20Marketing-6D28D9?style=flat-square" />
-<img src="https://img.shields.io/badge/-E--commerce-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/-Online%20Payments-4C1D95?style=flat-square" />
-</p>
-
-**🌐 .NET Web Applications**
-Backend-focused web development across multiple .NET internships (DEPI, ABG Egypt, Masar Tech) — server-side logic, data handling, and application architecture.
-<p>
-<img src="https://img.shields.io/badge/-.NET-6D28D9?style=flat-square" />
-<img src="https://img.shields.io/badge/-C%23-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/-SQL-4C1D95?style=flat-square" />
-</p>
-
-**🤖 Machine Learning Applications**
-Applied ML work through internships at FlyRank AI and Genius Technology Center, alongside coursework in generative AI and data cleaning.
-<p>
-<img src="https://img.shields.io/badge/-Python-6D28D9?style=flat-square" />
-<img src="https://img.shields.io/badge/-Machine%20Learning-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/-Generative%20AI-4C1D95?style=flat-square" />
-</p>
-
-<hr/>
 
 <h3>🏆 Achievements</h3>
 <p align="center">
@@ -161,14 +75,7 @@ Applied ML work through internships at FlyRank AI and Genius Technology Center, 
 
 <hr/>
 
-<h3>📜 Certifications</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Introducing%20Generative%20AI-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-Introduction%20to%20GitHub-4C1D95?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Certification-Data%20Cleaning-6D28D9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Internship-Front%20End%20Intern-7C3AED?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Internship-.NET%20Web%20Development-6D28D9?style=flat-square"/>
-</p>
+
 
 <hr/>
 

@@ -63,41 +63,6 @@ Alongside my technical work, I founded and ran Glow Store, an e-commerce busines
 
 <hr/>
 
-<h3>🏆 Achievements</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/-5%2B%20Years%20Running%20Glow%20Store-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Working%20Since%20Age%2013-7C3AED?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Multiple%20Marketing%20%26%20Leadership%20Roles-4C1D95?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Cross--Disciplinary%20Background-6D28D9?style=flat-square" />
-</p>
-
-<hr/>
-
-<h3>📊 GitHub Analytics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nadaaelmokdem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=nadaaelmokdem&theme=tokyonight&hide_border=true&background=0f0524&stroke=8B5CF6&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadaaelmokdem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0524&title_color=A78BFA&text_color=C4B5FD" width="49%"/>
-</p>
-
-<hr/>
-
-<h3>🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=nadaaelmokdem&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8"/>
-</p>
-
-<hr/>
-
-<h3>📈 Contribution Activity</h3>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadaaelmokdem&theme=react-dark&hide_border=true&bg_color=0f0524&color=A78BFA&line=8B5CF6&point=E9D5FF"/>
-</p>
-
-<hr/>
-
 <h3>🐍 Contribution Snake</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/nadaaelmokdem/nadaaelmokdem/output/github-contribution-grid-snake-dark.svg"/>
